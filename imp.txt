@@ -1,0 +1,2 @@
+to run app: npm run android or npm run ios
+or with cache clean: npx expo start -c
